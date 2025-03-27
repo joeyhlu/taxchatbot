@@ -1,4 +1,4 @@
-# CortaxAI - Tax Assistant
+# CoTaxAI - Tax Assistant
 <img width="1512" alt="Screenshot 2025-03-26 at 8 58 23 PM" src="https://github.com/user-attachments/assets/3216e980-5b5e-4df7-9684-fb64c9099f13" />
 
 Built using **Next.js**, **Tailwind CSS**, and **@ai-sdk/react**

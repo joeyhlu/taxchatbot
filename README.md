@@ -1,5 +1,5 @@
 # CoTaxAI - Tax Assistant
-<img width="1512" alt="Screenshot 2025-03-26 at 8 58 23 PM" src="https://github.com/user-attachments/assets/3216e980-5b5e-4df7-9684-fb64c9099f13" />
+<img width="1510" alt="Screenshot 2025-03-26 at 9 08 20 PM" src="https://github.com/user-attachments/assets/96eec31b-54f9-4cee-9417-d77f2ea49ec5" />
 
 Built using **Next.js**, **Tailwind CSS**, and **@ai-sdk/react**
 ## Setup & Installation

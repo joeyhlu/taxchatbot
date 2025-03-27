@@ -1,40 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# CortaxAI - Tax Assistant
+<img width="1512" alt="Screenshot 2025-03-26 at 8 58 23 PM" src="https://github.com/user-attachments/assets/3216e980-5b5e-4df7-9684-fb64c9099f13" />
 
-## Getting Started
+Built using **Next.js**, **Tailwind CSS**, and **@ai-sdk/react**
+## Setup & Installation
+1. Clone/download this repository ```git clone https://github.com/joeyhlu/taxchatbot.git```
+2. Install dependencies ```npm install```
+3. To run the code ```npm run dev```
 
-First, run the development server:
+### Assumptions made
+- Image upload is demonstrative and file contents are not utilizied
+- Covers some basic tax queries
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Placeholder Features and How it Can be Expanded
+- **Knowledge**: Set of tax keywords which can be replaced with an AI model for the future
+- **File Upload**: Doesn't use the contents of the file other than display, could parse information from it and provide it for analysis
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Areas for Future Improvement
+- Integrating a backend so it can cover more scenarios
+- Adding storage to store user chat history if the user wants to close the tab and come back to it
+- More integration into a larger site for the UI
+- Adding more features related to taxes
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.

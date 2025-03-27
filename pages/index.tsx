@@ -5,7 +5,7 @@ import ChatUI from '../components/ChatUI';
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 px-4 py-8 flex flex-col">
-      <nav className="w-full flex justify-between items-center py-16 px-10 bg-transparent">
+      <nav className="w-full flex justify-between items-center py-3 px-10 bg-transparent">
         <div className="text-3xl font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
           CortaxAI
         </div>
